@@ -14,5 +14,5 @@
 
 💬   **Sobre mim:** Curto tecnologia, reunir amigos, poker e CS:GO
 
-📫   **Vamos conversar:** ![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fariel-crivellaro-martins-463b56171%2F)    ![Twitter URL](https://img.shields.io/twitter/url?label=arielcrivellaro%40gmail.com&logo=Gmail&style=social&url=http%3A%2F%2Fmailto%3Asomeone%40microsoft.com%3Fsubject%3DHello%2520again)
-
+📫   **Vamos conversar:** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/ariel-crivellaro-martins-463b56171/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arielcrivellaro@gmail.com)](mailto:arielcrivellaro@gmail.com)
