@@ -3,7 +3,7 @@
 ### Gosto de como a tecnologia pode impactar e transformar a vidas das pessoas e como sou capaz de fazer parte disso através da programação.
 
 <h1 align="center">
-    <img src="public/gif.gif">
+    <img src="https://ik.imagekit.io/fwqbvklkt2/gif_bwh3iaXbzZ.gif">
 </h1>
   
 🌱   **Estudando:** Aluno do bootcamp GoStack da Rockeseat 🚀
