@@ -1,16 +1,12 @@
 ## Olá pessoal! Ariel aqui 👋
 
 ### Gosto de como a tecnologia pode impactar e transformar a vidas das pessoas e como sou capaz de fazer parte disso através da programação.
-
-<h1 align="center">
-    <img src="https://ik.imagekit.io/fwqbvklkt2/gif_bwh3iaXbzZ.gif">
-</h1>
   
-🌱   **Estudando:** Aluno do bootcamp GoStack da Rockeseat 🚀
+🌱   **Estudando:** Aluno do bootcamp Ignite da Rockeseat 🚀
 
 💻   **Minha stack:** ReactJS, Node.js, React Native & Typescript
 
-🎓   **Graduação:** Sistemas de Informação 8/8 - PUC Campinas
+🎓   **Graduação:** Sistemas de Informação - PUC Campinas
 
 💬   **Sobre mim:** Curto tecnologia, reunir amigos, poker e CS:GO
 
